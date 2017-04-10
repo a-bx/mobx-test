@@ -53,6 +53,8 @@
     "mobx": "^2.5.2",
     "mobx-react": "^3.5.7",
     "mobx-react-devtools": "^4.2.6",
+    "mobx-rest": "^2.1.4",
+    "mobx-rest-jquery-adapter": "^1.0.0",
     "moment": "^2.15.1",
     "package": "^1.0.1",
     "portrait": "^0.4.0",
