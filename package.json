@@ -55,6 +55,7 @@
     "mobx-react-devtools": "^4.2.6",
     "moment": "^2.15.1",
     "package": "^1.0.1",
+    "portrait": "^0.4.0",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-router-dom": "latest",
